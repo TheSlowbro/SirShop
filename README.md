@@ -22,4 +22,6 @@ Bamboo castle
 
 Rumble and tilt
 
+Sloths
+
 # ALL GAMES ARE 32MB OR UNDER AND COMPATBLE WITH SIRSWIM
